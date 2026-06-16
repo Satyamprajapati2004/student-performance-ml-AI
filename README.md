@@ -1,7 +1,7 @@
 # 🎓 AI Student Performance Prediction System
 
 A complete Machine Learning-based web application that predicts student academic performance (Pass/Fail) using Python, Scikit-Learn, and Streamlit. This project demonstrates end-to-end ML workflow including data preprocessing, model training, evaluation, and deployment with an interactive dashboard.
-
+Live Demo Project {https://satyamprajapati2004-student-performance-ml-ai-app-zphrnm.streamlit.app/}
 ---
 
 ## 🚀 Project Overview
